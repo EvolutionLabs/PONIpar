@@ -10,6 +10,11 @@
             "name": " Tim Weber",
 			"homepage": "http://www.ueberbit.de/",
             "role": "Developer"
+        },
+        {
+            "name": "Kevin Jantzer",
+            "email": "kevin.jantzer@blackstoneaudio.com",
+            "role": "Developer"
         }
     ],
     "require": {
