@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "type": "library",
     "keywords": ["ONIX", "XML", "parser", "editeur"],
-    "homepage": "https://github.com/evolutionlabs/PONIpar",
+    "homepage": "https://github.com/EvolutionLabs/PONIpar",
     "authors": [
         {
             "name": " Tim Weber",
