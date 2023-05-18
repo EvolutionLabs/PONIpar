@@ -1,20 +1,15 @@
 {
-    "name": "kjantzer/ponipar",
+    "name": "evolutionlabs/ponipar",
     "description": "Stream-based PHP ONIX parser library.",
     "version": "1.0.0",
     "type": "library",
     "keywords": ["ONIX", "XML", "parser", "editeur"],
-    "homepage": "https://github.com/kjantzer/PONIpar",
+    "homepage": "https://github.com/evolutionlabs/PONIpar",
     "authors": [
         {
             "name": " Tim Weber",
 			"homepage": "http://www.ueberbit.de/",
             "role": "Developer"
-        },
-        {
-            "name": "Kevin Jantzer",
-            "email": "kevin.jantzer@blackstoneaudio.com",
-			"role": "Developer"
         }
     ],
     "require": {
