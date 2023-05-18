@@ -33,6 +33,3 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
-
-#radoo: github authentication
-/auth.json
